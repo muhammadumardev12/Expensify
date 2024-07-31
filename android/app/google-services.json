@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471176714331",
+    "project_id": "expensify-89e7d",
+    "storage_bucket": "expensify-89e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471176714331:android:db4048f7fc3bd3b6e3477e",
+        "android_client_info": {
+          "package_name": "com.expensify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471176714331-2vbnelsi6rc0chlsesfm7j8umbhcoqed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expensify",
+            "certificate_hash": "558812c1fb8685d58184c2d4ed9a85b56a07d745"
+          }
+        },
+        {
+          "client_id": "471176714331-uvhnnpqvu8a128ab59oqph6ud84idf9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfpTr8YWt_inRV3AxXkB9sx7VBlbPOeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471176714331-uvhnnpqvu8a128ab59oqph6ud84idf9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
